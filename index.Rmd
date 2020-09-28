@@ -1,0 +1,17 @@
+---
+title: "NTRES6940_Collab_Website_Assg2"
+author: "Adriana Hernandez"
+date: "9/28/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Adriana's GitHub: https://github.com/aherbotany   
+Nicole's GitHub: https://github.com/nszeluga  
+
+![unicorns rule](<iframe src="https://giphy.com/embed/DTLzZIeBh33S8" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/despicable-me-pillow-fluffy-DTLzZIeBh33S8">via GIPHY</a></p>)  
+
+![unicorns rule](https://media4.giphy.com/media/DTLzZIeBh33S8/giphy.gif)  
