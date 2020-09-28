@@ -1,5 +1,5 @@
 ---
-title: "NTRES6940_Collab_Website_Assg2"
+title: "NTRES6940 Collab Website Assg2"
 author: "Adriana Hernandez"
 date: "9/28/2020"
 output: html_document
