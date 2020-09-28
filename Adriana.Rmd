@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Info About Me:
+## About:
 1. I am a 4th year PhD Candidate in Plant Biology at Cornell University  
 2. Things that keep me sane through graduate school:  
 + Yoga  
