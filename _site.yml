@@ -1,4 +1,3 @@
-output_dir: "."
 navbar:
   left:
     - text: "Home"
@@ -6,4 +5,11 @@ navbar:
     - text: "Adriana"
       href: Adriana.html
     - text: "Nicole"
-      href: nina.html  
+      href: nina.html
+output_dir: "."
+output:
+  html_document:
+    theme: united
+    highlight: textmate
+    toc: true 
+    toc_float: true 
