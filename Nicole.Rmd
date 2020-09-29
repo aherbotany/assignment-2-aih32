@@ -1,0 +1,20 @@
+---
+title: "Nicole"
+author: "Nicole Szeluga"
+date: "9/29/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## About Me
+* I am a 3rd year Ph.D Student in Plant Biology
+* I have a cat named Bentley
+  + He is an Orange Tabby
+  + He is 3 years old
+  + He is very large
+* I am from New Jersey
+
+
