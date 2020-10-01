@@ -4,7 +4,7 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Adriana"
-      href: Adriana.html
+      href: Adriana.html  
     - text: "Nicole"
       href: Nicole.html
 output:
